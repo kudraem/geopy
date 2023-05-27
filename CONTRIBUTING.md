@@ -1,14 +1,14 @@
 # Contributing to geopy
 
 ## Reporting issues
-
+changes here...
 If you caught an exception from geopy please try to Google the error first.
 There is a great chance that it has already been discussed somewhere
 and solutions have been provided (usually on GitHub or on Stack Overflow).
 
 Before reporting an issue please ensure that you have tried
 to get the answer from the doc: https://geopy.readthedocs.io/.
-
+[just another line in another change]
 Keep in mind that if a specific geocoding service's API is not behaving
 correctly then it probably won't be helpful to report that issue
 here, see https://geopy.readthedocs.io/en/latest/#geopy-is-not-a-service
