@@ -27,3 +27,5 @@
    https://readthedocs.org/projects/geopy/builds/
 1. Ensure that the CI build for the tag is green.
 
+some new text line
+by the way, it's greag markdown here...
